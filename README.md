@@ -35,7 +35,7 @@ Optionally, you may add the below links:
 <a href="https://webri.ng/webring/webloglol/next?via=YOUR_WEBSITE_URL">Next Site</a>
 ```
 
-Second, please send an email to [shiny.note8149@fastmail.com](<mailto:shiny.note8149@fastmail.com?subject=Request%20to%20join%20Photography%20Club&body=Website Name%3A%0D%0A%0D%0AWebsite%20URL%3A%0D%0A%0D%0AWebring%20Page%20URL%3A%20>) with the subject line `Request to join Photography Club`, and the below template in the body:
+Second, please send an email to [shiny.note8149@fastmail.com](<mailto:shiny.note8149@fastmail.com?subject=Request%20to%20join%20Photography%20Club&body=Website%20Name%3A%0D%0A%0D%0AWebsite%20URL%3A%0D%0A%0D%0AWebring%20Page%20URL%3A%20>) with the subject line `Request to join Photography Club`, and the below template in the body:
 
 ```
 Website Name:
